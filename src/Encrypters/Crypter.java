@@ -1,8 +1,5 @@
 package Encrypters;
 
-/**
- * Created by Tastum on 17/10/2016.
- */
 
 import java.util.Random;
 

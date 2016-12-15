@@ -10,9 +10,7 @@ import model.User;
 import java.sql.*;
 import java.util.ArrayList;
 
-/**
- * Created by mortenlaursen on 17/10/2016.
- */
+
 public class DBConnector {
     /**
      * Constructor for establishing connection.

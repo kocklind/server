@@ -1,8 +1,6 @@
 //package model;
 //
-///**
-// * Created by RuneKockLind on 30/11/2016.
-// */
+
 //import database.DBConnector;
 //import model.User;
 //
